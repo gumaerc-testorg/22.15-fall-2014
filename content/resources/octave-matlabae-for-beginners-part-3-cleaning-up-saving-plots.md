@@ -1,0 +1,19 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: "Octave/MATLAB\xAE for Beginners, Part 3: Cleaning Up & Saving Plots"
+uid: f1a26b7d-cdab-6126-cdf5-e30159517282
+video_files:
+  archive_url: https://archive.org/download/MIT22.15F14/MIT22_15F14_octavefit3_720p.mp4
+  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-15-essential-numerical-methods-fall-2014/1b841ea2dbe65b4184b6568eb612d5ad_WUxImdA7k8E.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/WUxImdA7k8E/default.jpg
+  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/22-15-essential-numerical-methods-fall-2014/80855f8b4a94bc5d3454b9f4e457c06e_WUxImdA7k8E.pdf
+video_metadata:
+  youtube_id: WUxImdA7k8E
+---
+
+**Description:** Clean up and save plots. Configure axis labels. Call another script (plotdefaults.m) within fitting.m. Get Octave help with 'doc' command. Using comments in scripts. Save plots with the 'print' command.
+
+**Instructor:** Prof. Ian Hutchinson
