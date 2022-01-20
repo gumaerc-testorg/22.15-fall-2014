@@ -1,0 +1,58 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Nuclear Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Numerical Simulation"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ]
+  ],
+  "legacy_uid": "041977a0-a378-7b03-9467-8f9e61d99e18",
+  "instructors": {
+    "content": [
+      "4fb8e81a-373c-0fab-4c1e-328fe97576b6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b43308e0-5458-88f1-46cc-b4324e2cbec8",
+    "website": "22-15-essential-numerical-methods-fall-2014"
+  },
+  "course_title": "Essential Numerical Methods",
+  "course_description": "This half-semester course introduces computational methods for solving physical problems, especially in nuclear applications. The course covers ordinary and partial differential equations for particle orbit, and fluid, field, and particle conservation problems; their representation and solution by finite difference numerical approximations; iterative matrix inversion methods; stability, convergence, accuracy and statistics; and particle representations of Boltzmann's equation and methods of solution such as Monte-Carlo and particle-in-cell techniques.\n",
+  "department_numbers": [
+    "22"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "22.15",
+  "course_image_thumbnail": {
+    "content": "70476e02-f9ed-8ccd-735f-66a303cb6da7",
+    "website": "22-15-essential-numerical-methods-fall-2014"
+  },
+  "learning_resource_types": [
+    "Tutorial Videos",
+    "Problem Sets",
+    "Exams",
+    "Online Textbook",
+    "Programming Assignments"
+  ],
+  "site_uid": "4fddb29a-70a3-449b-ad06-8d37485fce5e",
+  "title": "Course Metadata"
+}
