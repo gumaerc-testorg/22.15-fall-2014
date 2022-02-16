@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: Tutorial Videos
 uid: 0e9a5812-64e8-07a6-c482-f19256c29502
 videos:
@@ -11,7 +13,7 @@ videos:
   website: 22-15-essential-numerical-methods-fall-2014
 ---
 
-In these three short tutorial videos, Prof. Hutchinson demonstrates basic operations with Octave software. The videos should also be helpful for beginning MATLAB® users.
+In these three short tutorial videos, Prof. Hutchinson demonstrates basic operations with Octave software. The videos should also be helpful for beginning MATLAB{{< sup "®" >}} users.
 
 [plotdefaults.m script used in Part 3 video (M)]({{< baseurl >}}/resources/plotdefaults)
 

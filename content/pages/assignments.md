@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: d6c915b9-195a-3a80-7b61-f97e38c7f333
 ---
@@ -36,7 +39,7 @@ SUPPORTING MATERIALS
 {{< tdopen >}}
 
 
-For Question 1, use one of these sets of N=7 numbers. Each ZIP contains the numbers in a txt file, plus .oct and .mat files you can read directly into Octave or MATLAB®.
+For Question 1, use one of these sets of N=7 numbers. Each ZIP contains the numbers in a txt file, plus .oct and .mat files you can read directly into Octave or MATLAB{{< sup "®" >}}.
 
 [Exercise 1: Set 1 numbers (ZIP)]({{< baseurl >}}/resources/ex1_set01)
 

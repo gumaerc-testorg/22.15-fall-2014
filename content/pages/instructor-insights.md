@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 8325039d-9234-206d-6b43-2c959adf5681
 ---
@@ -65,20 +67,6 @@ This course is one of six half-semester courses that comprise the core course re
 ### Offered
 
 Every fall semester, during the first half of the term.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-Lecture and Recitation
-----------------------
-
-*   ![Photo of classroom with 5 wide tables in rows, seating 6 each, and a pair of chalkboards at the front of the room.]({{< resource_file c65690fc-2b6b-6165-a99f-2de5884738e6 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Lectures were held in this classroom, with a video projector and chalkboards for instruction.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
