@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d6c915b9-195a-3a80-7b61-f97e38c7f333
 resourcetype: Document
 title: Exercise 5 example solution
 uid: c1d933d3-ac39-88fb-b98c-182be25a0bdc

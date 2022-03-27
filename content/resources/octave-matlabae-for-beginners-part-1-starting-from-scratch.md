@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Octave/MATLAB\xAE for Beginners, Part 1: Starting from Scratch"
 uid: 3c237224-ee30-48ee-c3ec-342771de96d5
 video_files:
