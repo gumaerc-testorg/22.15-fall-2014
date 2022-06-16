@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This page presents a set of three tutorial videos on getting started
+  with Octave. The information will also be useful for beginning MATLAB users.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
@@ -15,7 +17,7 @@ videos:
 
 In these three short tutorial videos, Prof. Hutchinson demonstrates basic operations with Octave software. The videos should also be helpful for beginning MATLAB{{< sup "®" >}} users.
 
-[plotdefaults.m script used in Part 3 video (M)]({{< baseurl >}}/resources/plotdefaults)
+{{% resource_link a16b1d38-0809-87b1-ec8d-6d8882c7fd3e "plotdefaults.m script used in Part 3 video (M)" %}}
 
 {{< video-gallery "0e9a5812-64e8-07a6-c482-f19256c29502" >}}
 

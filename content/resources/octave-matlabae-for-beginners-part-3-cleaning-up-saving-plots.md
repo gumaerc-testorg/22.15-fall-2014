@@ -4,11 +4,12 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Tutorial Videos
 parent_type: CourseSection
-related_resources_text: '[plotdefaults.m script used in this video (M)](resources/plotdefaults)'
+related_resources_text: '[plotdefaults.m script used in this video (M)](/courses/22-15-essential-numerical-methods-fall-2014/resources/plotdefaults)'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Clean up and save plots. Configure axis labels. Call another script (plotdefaults.m) within fitting.m. Get Octave help with 'doc' command. Using comments in scripts. Save plots with the 'print' command.
 
 **Instructor:** Prof. Ian Hutchinson
+
+
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/22-15-essential-numerical-methods-fall-2014/ea1fdf634372556fbff366a1e98a56e1_LhPZwdhutgU.vtt
+file: /courses/22-15-essential-numerical-methods-fall-2014/ea1fdf634372556fbff366a1e98a56e1_LhPZwdhutgU.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

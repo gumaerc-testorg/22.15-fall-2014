@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Tutorial Videos
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Create adjacent windows for Octave command line and text editing a script file (fitting.m). Generate data as row & column vectors, adjust paramaters. Generate plots: default line plot, add points, adjust the style of points.
 
 **Instructor:** Prof. Ian Hutchinson
+
+
+
