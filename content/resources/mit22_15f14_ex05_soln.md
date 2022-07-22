@@ -5,6 +5,7 @@ file: /courses/22-15-essential-numerical-methods-fall-2014/c1d933d3ac3988fbb98c1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Exercise 5 example solution
 uid: c1d933d3-ac39-88fb-b98c-182be25a0bdc
 ---
 This resource contains the information regarding Exercise 5 example solution.
-

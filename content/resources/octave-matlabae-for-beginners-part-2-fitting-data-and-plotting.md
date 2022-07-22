@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Plot the line that results from our fit on the data. Construct a matrix with looping, inverse, transposition functions. Use 'hold on' & 'hold off' features. Manual axis configuration. Using semicolon to clean up command line display. Debugging errors.
 
 **Instructor:** Prof. Ian Hutchinson
-
-
 

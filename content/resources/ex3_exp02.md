@@ -6,6 +6,7 @@ file: /courses/22-15-essential-numerical-methods-fall-2014/dc23901d03ec9afda0399
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ex3_exp02.zip
 uid: dc23901d-03ec-9afd-a039-93376bc68eb1
 ---
 This file contains information regarding exercise 3: set 2 expressions (ZIP).
-

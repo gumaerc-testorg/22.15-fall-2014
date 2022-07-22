@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Clean up and save plots. Configure axis labels. Call another script (plotdefaults.m) within fitting.m. Get Octave help with 'doc' command. Using comments in scripts. Save plots with the 'print' command.
 
 **Instructor:** Prof. Ian Hutchinson
-
-
 
