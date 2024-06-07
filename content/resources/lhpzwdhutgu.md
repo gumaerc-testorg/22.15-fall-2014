@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/22-15-essential-numerical-methods-fall-2014/17aeecf9e849d9397dc649de9ccb3610_LhPZwdhutgU.srt
+file_size: 7072
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
