@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding exercise 3: set 1 expressions
   (ZIP).'
-file: /courses/22-15-essential-numerical-methods-fall-2014/123daae6516e8ec4ccc8c21310c6defb_ex3_exp01.zip
+file: /ol-ocw-studio-app/courses/22-15-essential-numerical-methods-fall-2014/123daae6516e8ec4ccc8c21310c6defb_ex3_exp01.zip
 file_size: 756
 file_type: application/zip
 learning_resource_types:
