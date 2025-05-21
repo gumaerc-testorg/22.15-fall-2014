@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/22-15-essential-numerical-methods-fall-2014/80855f8b4a94bc5d3454b9f4e457c06e_WUxImdA7k8E.pdf
+file: /courses/22-15-essential-numerical-methods-fall-2014/80855f8b4a94bc5d3454b9f4e457c06e_WUxImdA7k8E.pdf
 file_size: 24346
 file_type: application/pdf
 learning_resource_types: []
