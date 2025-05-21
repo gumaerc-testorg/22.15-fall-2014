@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding exercise 1: set 2 numbers (ZIP).'
-file: /ol-ocw-studio-app/courses/22-15-essential-numerical-methods-fall-2014/678ba9e8ea3a18bc09a9bc9c6b1cb434_ex1_set02.zip
+file: /courses/22-15-essential-numerical-methods-fall-2014/678ba9e8ea3a18bc09a9bc9c6b1cb434_ex1_set02.zip
 file_size: 1096
 file_type: application/zip
 learning_resource_types:
