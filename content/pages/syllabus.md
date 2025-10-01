@@ -117,7 +117,7 @@ This is an outstanding, readable, and practical introduction to numerical method
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Jardin, Stephen. _Computational Methods in Plasma Physics_. CRC Press, 2010. ISBN: 9781439810217. \[Preview with [Google Books](http://books.google.com/books?id=gZzf_B56FDcC&pg=PAfrontcover)\]
+Jardin, Stephen. _Computational Methods in Plasma Physics_. CRC Press, 2010. ISBN: 9781439810217. \[Preview with {{% resource_link "cf5f9972-e2ba-4679-aea5-ce8db5dda48c" "Google Books" %}}\]
 {{< tdclose >}}
 {{< tdopen >}}
 Although focused on plasma physics, this book gives excellent introductions to finite difference PDE equations and the methods for solving them, across the spectrum of equation types.
@@ -135,7 +135,7 @@ This book covers numerical methods in the nuclear reactor context, and therefore
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Hebert, Alain. _Applied Reactor Physics_. Ecole Polytechnique De Montreal, 2009. ISBN: 9782553014369. \[Preview with [Google Books](http://books.google.com/books?id=sibA5ECQ8LoC&pg=PAfrontcover)\]
+Hebert, Alain. _Applied Reactor Physics_. Ecole Polytechnique De Montreal, 2009. ISBN: 9782553014369. \[Preview with {{% resource_link "be28bd38-60ad-4550-a552-a374bc52e437" "Google Books" %}}\]
 {{< tdclose >}}
 {{< tdopen >}}
 This modern reactor physics text book has numerical methods liberally sprinkled in its development and a useful appendix addressing them directly. Naturally its reactor physics goes far beyond what we will cover.
@@ -161,7 +161,7 @@ These are three examples of the large selection of text books that address how t
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Hockney, R. W., and J. W. Eastwood. _Computer Simulation Using Particles_. CRC Press, 1988. ISBN: 9780852743928. \[Preview with [Google Books](http://books.google.com/books?id=nTOFkmnCQuIC&pg=PAfrontcover)\]
+Hockney, R. W., and J. W. Eastwood. _Computer Simulation Using Particles_. CRC Press, 1988. ISBN: 9780852743928. \[Preview with {{% resource_link "92ada8e4-1a4e-4b45-8153-1acbc385ac04" "Google Books" %}}\]
 {{< tdclose >}}
 {{< tdopen >}}
 This is a classic on particle simulation, especially plasma PIC approaches, but has a lot of additional material on other topics of the course.
@@ -170,7 +170,7 @@ This is a classic on particle simulation, especially plasma PIC approaches, but 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[NIST / SEMATECH e-Handbook of Statistical Methods](http://www.itl.nist.gov/div898/handbook/)
+{{% resource_link "cbde687e-f162-44d3-802e-20fcc98242f7" "NIST / SEMATECH e-Handbook of Statistical Methods" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 A good resource about data fitting.
