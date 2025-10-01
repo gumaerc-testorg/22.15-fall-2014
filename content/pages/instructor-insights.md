@@ -59,7 +59,7 @@ I have no qualms about the material or the abbreviated style of the module and h
 
 ### Requirements Satisfied
 
-This course is one of six half-semester courses that comprise the core course requirement for \[PhD students in Nuclear Science and Engineering\]([http://catalog.mit.edu/schools/engineering/nuclear-science-engineering/#phd-dsc](http://catalog.mit.edu/schools/engineering/nuclear-science-engineering/#phd-dsc)   
+This course is one of six half-semester courses that comprise the core course requirement for \[PhD students in Nuclear Science and Engineering\]({{% resource_link "864715ba-8179-4c0b-b202-784fbc5f29e6" "http://catalog.mit.edu/schools/engineering/nuclear-science-engineering/#phd-dsc" %}}   
 ). Students must pass the final exam with a B or better. They can take the exam without taking the course, but hardly any do.
 
 ### Offered
