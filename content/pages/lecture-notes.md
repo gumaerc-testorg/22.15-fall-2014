@@ -9,13 +9,13 @@ ocw_type: CourseSection
 title: Course Notes
 uid: ed6fbc8c-33fa-352a-e7bd-2b910c318696
 ---
-The course notes linked below serve as the primary textbook. Each chapter corresponds to the content covered in one lecture session. Note that they are © Professor Hutchinson, all rights reserved, and are not covered by the OCW [Creative Commons license](https://ocw.mit.edu/terms/#cc).
+The course notes linked below serve as the primary textbook. Each chapter corresponds to the content covered in one lecture session. Note that they are © Professor Hutchinson, all rights reserved, and are not covered by the OCW {{% resource_link "b61ad850-201d-4631-a501-e9a19dc473a2" "Creative Commons license" %}}.
 
-The notes have also been adapted and published in book form by [Cambridge University Press](https://www.cambridge.org/):
+The notes have also been adapted and published in book form by {{% resource_link "9db5980e-920e-433d-8b83-28a927e8bc62" "Cambridge University Press" %}}:
 
 - Hutchinson, Ian. _A Student's Guide to Numerical Methods_. Cambridge University Press, 2015. ISBN: 9781107479500.
 
-[Course notes home page, preface, & table of contents](http://silas.psfc.mit.edu/22.15/lectures/index.xml)
+{{% resource_link "d6de212d-3daa-43b5-a9d5-ae4eebf40ca3" "Course notes home page, preface, & table of contents" %}}
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
@@ -26,13 +26,13 @@ TOPIC SUMMARIES
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
-[Chapter 1: Numerical fitting of data](http://silas.psfc.mit.edu/22.15/lectures/chap1.xml)
+{{% resource_link "071690ad-e753-47d3-b417-8006ed79f954" "Chapter 1: Numerical fitting of data" %}}
 {{< tdclose >}}{{< tdopen >}}
 1–D least squares fit of a line to a sequence of data. Its representation as a matrix pseudo-inversion problem to determine coefficients.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
-[Chapter 2: Ordinary differential equations (ODEs)](http://silas.psfc.mit.edu/22.15/lectures/chap2.xml)
+{{% resource_link "d6805fcb-48be-4deb-bc29-ded98443a87c" "Chapter 2: Ordinary differential equations (ODEs)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 Ordinary differential equation of order N in one dependent variable is equivalent to N simultaneous first-order ODEs, i.e. a first order vector ODE. The orbit of a field line or an electron in prescribed static EM fields.
@@ -44,7 +44,7 @@ Simple Leapfrog scheme as an example of centered time differences.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
-[Chapter 3: Two-point boundary conditions](http://silas.psfc.mit.edu/22.15/lectures/chap3.xml)
+{{% resource_link "32477355-7b68-4cf1-a4ca-9921c4c84246" "Chapter 3: Two-point boundary conditions" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 Second order ODES. Two point boundary conditions.
@@ -58,7 +58,7 @@ Second order differences. Linear ODE: Expression of 2-point problem as a matrix 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
-[Chapter 4: Partial differential equations (PDEs)](http://silas.psfc.mit.edu/22.15/lectures/chap4.xml)
+{{% resource_link "3899480a-7769-455d-ac62-253a5ab5d19e" "Chapter 4: Partial differential equations (PDEs)" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 Examples of partial differential equations of engineering physics.
@@ -70,7 +70,7 @@ Classification of PDEs. Elliptic, Parabolic, Hyperbolic. Consequences for bounda
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
-[Chapter 5: Diffusion; parabolic PDEs](http://silas.psfc.mit.edu/22.15/lectures/chap5.xml)
+{{% resource_link "ebef2f8e-9ab0-4e30-80f2-295582a8fa4a" "Chapter 5: Diffusion; parabolic PDEs" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 The diffusion equation and boundaries in space and time.
@@ -86,7 +86,7 @@ Example of time-dependent diffusive relaxation to a steady state.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
-[Chapter 6: Elliptic problems and iterative matrix solution](http://silas.psfc.mit.edu/22.15/lectures/chap6.xml)
+{{% resource_link "bb6d0b27-a315-4803-95e8-3ad60b20f708" "Chapter 6: Elliptic problems and iterative matrix solution" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 Elliptic equation as steady state of a parabolic equation. Need for matrix inversion. Iteration's equivalence to diffusive relaxation. Solving matrix problem without explicit inversion.
@@ -98,7 +98,7 @@ Nonlinear equations, linearization and iteration.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
-[Chapter 7: Fluid dynamics and hyperbolic equations](http://silas.psfc.mit.edu/22.15/lectures/chap7.xml)
+{{% resource_link "d9fbc946-d589-40f1-b5ca-efcf1ef3de16" "Chapter 7: Fluid dynamics and hyperbolic equations" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 The fluid momentum conservation equation derived. Fluid closure.
@@ -110,7 +110,7 @@ Finite differences and stability: FTCS unstable. Lax-Friedrichs and CFL conditio
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
-[Chapter 8: Boltzmann's equation and its solution](http://silas.psfc.mit.edu/22.15/lectures/chap8.xml)
+{{% resource_link "96576f93-b82d-4a8e-8497-2573b6cc671d" "Chapter 8: Boltzmann's equation and its solution" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 The distribution function, and flux-density, energy-density.
@@ -124,7 +124,7 @@ The collision term. Simple collision process examples.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
-[Chapter 9: Neutron transport](http://silas.psfc.mit.edu/22.15/lectures/chap9.xml)
+{{% resource_link "a88cb9d2-2591-4014-9d17-6c882cbf7b89" "Chapter 9: Neutron transport" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 The Boltzmann equation in terms of flux. Neutron total loss, scattering and fission source terms. Reduction of Boltzmann equation to a (speed-resolved) diffusion equation.
@@ -136,7 +136,7 @@ Eigenvalue nature of the steady problem. Power iteration method to solve for dom
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
-[Chapter 10: Atomistic and particle-in-cell methods](http://silas.psfc.mit.edu/22.15/lectures/chap10.xml)
+{{% resource_link "83abab03-4684-4070-adfa-4906f576e98d" "Chapter 10: Atomistic and particle-in-cell methods" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 Atomistic simulation. Time and space scales. Generic approach. Interparticle force examples: Lennard-Jones, Morse. Computational requirements. Neighbor lists and blocks.
@@ -146,13 +146,13 @@ The computational problem of long-range forces. Particle in Cell solution for pl
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
-[Chapter 11: Monte Carlo techniques](http://silas.psfc.mit.edu/22.15/lectures/chap11.xml)
+{{% resource_link "42308a09-10a0-43aa-b451-cd4eeebf972f" "Chapter 11: Monte Carlo techniques" %}}
 {{< tdclose >}}{{< tdopen >}}
 Collisions. Random numbers and statistical distributions. Basic introduction to probability (random variables, pdf, cumulative probability) and statistics (mean, variance, standard error). Random sampling from basic distributions used in Monte Carlo simulations (uniform, exponential, …) and rejection sampling technique. Flux weighted injection.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
-[Chapter 12: Monte Carlo radiation transport](http://silas.psfc.mit.edu/22.15/lectures/chap12.xml)
+{{% resource_link "3158ddc2-6340-4c99-b89c-fb088bad1bc8" "Chapter 12: Monte Carlo radiation transport" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 Transport and collisions. Random walk step length; Poisson statistics. Collision-type choice. New particle generation.
@@ -162,7 +162,7 @@ Tracking and tallying of collisions. Statistical uncertainty, and tallying metho
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-[Chapter 13: Next steps, e.g. finite elements](http://silas.psfc.mit.edu/22.15/lectures/chap13.xml)
+{{% resource_link "d9122520-3974-4905-8485-162b73cda5c7" "Chapter 13: Next steps, e.g. finite elements" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
